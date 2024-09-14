@@ -29,8 +29,6 @@ The dataset used is not included in the repository but can be generated or sourc
 
 TMDB API
 The project uses The Movie Database (TMDB) API to fetch movie posters. To use the API, you will need to get an API key from TMDB and replace it in the fetch_poster function in the code.
-
-Get your API key here: https://www.themoviedb.org/documentation/api
 Future Improvements
 Genre-based filtering: Allow users to filter recommendations by movie genre.
 Increased scalability: Optimize the similarity computation for larger datasets.
